@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adesh Gadekar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently learning React
+- 🔭 I’m currently learning Java Framework
 
 - 📫 How to reach me **adeshgadekar2151@gmail.com**
 
