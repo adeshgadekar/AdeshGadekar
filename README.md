@@ -11,8 +11,6 @@
 <a href="https://www.instagram.com/the_riddler_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adesh_gadekar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adeshgadekar2151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adesh_gadekar" height="30" width="40" /></a>
 <a href="https://leetcode.com/adesh21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adesh_gadekar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adeshgadekar2151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg-code.svg" alt="adesh_gadekar" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
