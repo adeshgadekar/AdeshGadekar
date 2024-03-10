@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adeshgadekar/" target="blank"><img align="center" src="https://www.svgrepo.com/show/54425/linkedin.svg" alt="adesh_gadekar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/the_riddler_04/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/instagram-icon-paper-cut-style-social-media-icons_505135-235.jpg" alt="adesh_gadekar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/the_riddler_04/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="adesh_gadekar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adeshgadekar2151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adesh_gadekar" height="30" width="40" /></a>
 <a href="https://leetcode.com/adesh21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adesh_gadekar" height="30" width="40" /></a>
 </p>
